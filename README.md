@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Serve the documentation site in the local server
+
+```sh
+npm run docs:dev
+```
